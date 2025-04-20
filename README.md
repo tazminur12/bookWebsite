@@ -1,12 +1,46 @@
-# React + Vite
+Here’s the text and live link for your Library Management System project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## **Library Management System Using React, Tailwind CSS, and DaisyUI**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a simple Library Management System built using React, Tailwind CSS, and DaisyUI. It allows users to view, borrow, and return books in a library.
 
-## Expanding the ESLint configuration
+### **Installation**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/Library-Management-System.git
+   ```
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd Library-Management-System
+   ```
+
+3. **Install the required dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+### **Tech Stack**
+
+- **React**: For building the UI components and managing state.
+- **Tailwind CSS**: For utility-first CSS to style the components.
+- **DaisyUI**: For pre-built components that work with Tailwind CSS, improving productivity.
+
+### **Live Demo**
+
+You can view the live demo of the Library Management System at the following link:
+https://jovial-quokka-51ffef.netlify.app/
+
+[**Library Management System Live Demo**](https://yourusername.github.io/Library-Management-System)
+
+---
+
+Feel free to customize the link with your actual GitHub repository URL! Let me know if you need any further assistance!
